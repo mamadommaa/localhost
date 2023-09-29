@@ -1,5 +1,5 @@
 <?php 
 
-echo "давид go away";
+echo php_uname();
 
 ?>
